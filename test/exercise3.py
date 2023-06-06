@@ -16,4 +16,4 @@ def fibo(term):
             b = c
         return b
 
-print(fibo(4))
+print(fibo(10))
